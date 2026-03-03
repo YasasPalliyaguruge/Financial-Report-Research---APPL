@@ -1,0 +1,180 @@
+\begin{thebibliography}{25}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[{American Institute of Certified Public Accountants
+  (AICPA)}(2020)]{aicpa2020}
+{American Institute of Certified Public Accountants (AICPA)}.
+\newblock \emph{{Artificial Intelligence in Financial Reporting: Opportunities
+  and Challenges}}, 2020.
+\newblock URL \url{https://www.aicpa.org}.
+\newblock Accessed: January 2025.
+
+\bibitem[{Apple Inc.}(2023)]{apple202310k}
+{Apple Inc.}
+\newblock {Annual Report (Form 10-K) for the Fiscal Year Ended September 30,
+  2023}.
+\newblock Technical report, 2023.
+\newblock URL
+  \url{https://www.sec.gov/Archives/edgar/data/320193/000032019323000106/aapl-20230930.htm}.
+\newblock Accessed: January 2025.
+
+\bibitem[{Apple Inc.}(2024)]{apple202410k}
+{Apple Inc.}
+\newblock {Annual Report (Form 10-K) for the Fiscal Year Ended September 28,
+  2024}.
+\newblock Technical report, 2024.
+\newblock URL
+  \url{https://www.sec.gov/Archives/edgar/data/320193/000032019324000123/aapl-20240928.htm}.
+\newblock Accessed: January 2025.
+
+\bibitem[Brealey et~al.(2020)Brealey, Myers, and Allen]{brealey2020}
+R.A. Brealey, S.C. Myers, and F.~Allen.
+\newblock \emph{{Principles of Corporate Finance}}.
+\newblock McGraw-Hill Education, New York, NY, 13th edition, 2020.
+
+\bibitem[Brooks(2004)]{brooks2004}
+R.~Brooks.
+\newblock \emph{{Corporate Governance: The Journal of Business Ethics}}.
+\newblock Springer, New York, NY, 2004.
+
+\bibitem[{CSIMarket}(2024)]{csimarket2024}
+{CSIMarket}.
+\newblock \emph{{Computer Hardware Industry Efficiency Ratios - Q4 2024 Data}},
+  2024.
+\newblock URL \url{https://csimarket.com}.
+\newblock Accessed: January 2025.
+
+\bibitem[{Financial Accounting Standards Board (FASB)}(2014)]{fasb2014}
+{Financial Accounting Standards Board (FASB)}.
+\newblock \emph{{Accounting Standards Update 2014-15: Revenue from Contracts
+  with Customers (Topic 606)}}, 2014.
+\newblock URL \url{https://www.fasb.org}.
+\newblock Accessed: January 2025.
+
+\bibitem[{Financial Accounting Standards Board (FASB)}(2023)]{fasb2023}
+{Financial Accounting Standards Board (FASB)}.
+\newblock \emph{{Accounting Standards Update 2023-07: Segment Reporting (Topic
+  280): Improvements to Reportable Segment Disclosures}}, 2023.
+\newblock URL \url{https://www.fasb.org}.
+\newblock Accessed: January 2025.
+
+\bibitem[{Financial Accounting Standards Board (FASB)}(2024)]{fasb2024}
+{Financial Accounting Standards Board (FASB)}.
+\newblock \emph{{Accounting Standards Codification}}.
+\newblock Financial Accounting Foundation, 2024.
+\newblock URL \url{https://asc.fasb.org}.
+\newblock Accessed: January 2025.
+
+\bibitem[Fraser and Ormiston(2024)]{fraser2024}
+L.M. Fraser and A.~Ormiston.
+\newblock {Financial Statement Analysis: A Strategic Perspective}.
+\newblock \emph{{Journal of Applied Finance}}, 30\penalty0 (1):\penalty0
+  78--95, 2024.
+
+\bibitem[Healy and Palepu(2003)]{healy2003}
+P.M. Healy and K.G. Palepu.
+\newblock \emph{{The Laws of the Stock Market: The Financial Analysis
+  Journal}}.
+\newblock CFA Institute, Charlottesville, VA, 2003.
+
+\bibitem[Institute(2024)]{cfa2024}
+CFA Institute.
+\newblock {Financial Ratio Analysis: Methods and Applications}.
+\newblock \emph{{CFA Institute Magazine}}, 45\penalty0 (2):\penalty0 45--62,
+  2024.
+
+\bibitem[{J.P. Morgan}(2024)]{jpmorgan2024}
+{J.P. Morgan}.
+\newblock \emph{{Working Capital Index 2024: Technology Hardware DSO
+  Benchmarks}}, 2024.
+\newblock URL \url{https://www.jpmorgan.com}.
+\newblock Accessed: January 2025.
+
+\bibitem[Kieso et~al.(2023)Kieso, Weygandt, and Warfield]{kieso2023}
+D.E. Kieso, J.J. Weygandt, and T.D. Warfield.
+\newblock \emph{{Intermediate Accounting}}.
+\newblock John Wiley \& Sons, Hoboken, NJ, 18th edition, 2023.
+
+\bibitem[{LinkedIn}(2024)]{linkedin2024}
+{LinkedIn}.
+\newblock {Tech sector's ROE reaches record 27.8\%}.
+\newblock \emph{Industry Performance Data}, 2024.
+\newblock URL \url{https://www.linkedin.com}.
+\newblock Accessed: January 2025.
+
+\bibitem[{Macrotrends}(2024)]{macrotrends2024}
+{Macrotrends}.
+\newblock \emph{{Apple Inc. (AAPL) Financial Ratios and Metrics}}, 2024.
+\newblock URL
+  \url{https://www.macrotrends.net/stocks/charts/AAPL/financial-ratios}.
+\newblock Accessed: January 2025.
+
+\bibitem[Penman(2023)]{penman2023}
+S.H. Penman.
+\newblock {Financial Statement Analysis and Security Valuation}.
+\newblock \emph{{Accounting Review}}, 98\penalty0 (3):\penalty0 215--243, 2023.
+
+\bibitem[{ReadyRatios}(2024)]{readyratios2024}
+{ReadyRatios}.
+\newblock \emph{{Technology Sector Industry Benchmarks}}.
+\newblock ReadyRatios.net, 2024.
+\newblock URL \url{www.readyratios.com}.
+\newblock Accessed: January 2025.
+
+\bibitem[{Sustainability Accounting Standards Board}(2023)]{sasb2023}
+{Sustainability Accounting Standards Board}.
+\newblock \emph{{Sustainability Accounting Standards Board Industry
+  Standards}}.
+\newblock Value Reporting Foundation, 2023.
+\newblock URL \url{https://sasb.org}.
+\newblock Accessed: January 2025.
+
+\bibitem[{TechFunnel.com}(2024)]{techfunnel2024}
+{TechFunnel.com}.
+\newblock \emph{{Financial Ratios Demystified: Essential Metrics for Tech
+  Industry Decision Makers}}, August 2024.
+\newblock URL \url{https://techfunnel.com}.
+\newblock Accessed: January 2025.
+
+\bibitem[{TechHold.co.uk}(2025)]{techhold2025}
+{TechHold.co.uk}.
+\newblock \emph{{A Good Gross Profit Margin for the Technology Industry
+  Benchmarks}}, 2025.
+\newblock URL \url{https://techhold.co.uk}.
+\newblock Accessed: January 2025.
+
+\bibitem[{Unleashed Software}(2024)]{unleashed2024}
+{Unleashed Software}.
+\newblock \emph{{19 Inventory Management Statistics \& Industry Benchmarks for
+  2024}}, October 2024.
+\newblock URL \url{https://unleashedsoftware.com}.
+\newblock Accessed: January 2025.
+
+\bibitem[{U.S. Congress}(2002)]{sox2002}
+{U.S. Congress}.
+\newblock {Sarbanes-Oxley Act of 2002}.
+\newblock Technical report, 2002.
+\newblock URL \url{https://www.sec.gov/about/laws/soa2002.pdf}.
+\newblock Accessed: January 2025.
+
+\bibitem[{U.S. Securities and Exchange Commission}(2024)]{sec2024}
+{U.S. Securities and Exchange Commission}.
+\newblock {Financial Reporting Manual}.
+\newblock Technical report, 2024.
+\newblock URL
+  \url{https://www.sec.gov/divisions/corpfin/financialreportingmanual.htm}.
+\newblock Accessed: January 2025.
+
+\bibitem[Valukas(2010)]{valukas2010}
+A.R. Valukas.
+\newblock \emph{{Lehman Brothers Holdings Inc. Chapter 11 Proceedings Examiner
+  Report}}.
+\newblock Jenner \& Block LLP, 2010.
+\newblock URL \url{https://jec.unctad.org}.
+\newblock Accessed: January 2025.
+
+\end{thebibliography}
