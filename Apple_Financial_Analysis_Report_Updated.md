@@ -1,5 +1,7 @@
 # Applying Financial Accounting to Analyse Business Performance
 
+> **Project context:** This is the editable long-form report in the [Apple financial-analysis repository](README.md). It is an academic case study based on the included 2023–2024 filing material, not current investment research or financial advice.
+
 ## A Case Study of Apple Inc.
 
 ---

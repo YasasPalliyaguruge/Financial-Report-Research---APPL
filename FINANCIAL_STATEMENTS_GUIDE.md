@@ -1,5 +1,7 @@
 # Guide to Accessing Apple's Official Financial Statements (Form 10-K)
 
+> **Project context:** This source trail supports the [Apple financial-analysis repository](README.md). Links and filing metadata are recorded for the 2023–2024 study period; verify live filing locations before relying on them for new work.
+
 ## Document Purpose
 
 This guide provides comprehensive instructions for accessing and downloading Apple Inc.'s official financial statements (Form 10-K reports) for fiscal years 2023 and 2024. These documents serve as the authoritative source for all financial data used in the financial analysis report.

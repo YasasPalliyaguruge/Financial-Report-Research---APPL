@@ -1,5 +1,7 @@
 # Apple Inc. Financial Analysis Report Outline
 
+> **Project context:** This outline is the planning companion to the [Apple financial-analysis repository](README.md). It records the 2023–2024 assignment structure rather than a current market view.
+
 ## Executive Summary
 - Main question: How does financial accounting information help Apple Inc. assess its performance and make decisions?
 - Key findings: Strong profitability margins, efficient operations, declining liquidity, manageable debt levels

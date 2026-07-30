@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+
+# LaTeX build byproducts
+report/*.aux
+report/*.bbl
+report/*.blg
+report/*.log
+report/*.out
+report/*.toc
+report/*.synctex.gz
