@@ -1,5 +1,7 @@
 # Apple Financial Analysis Report - Project Completion Summary
 
+> **Project context:** This is the historic completion record for the [Apple financial-analysis repository](README.md). “Complete” refers to the January 2025 academic deliverable, not to the currency of Apple’s financial data today.
+
 **Project Status:** ✅ Complete  
 **Date:** January 2025  
 **Report Version:** Enhanced with Visualizations and Industry Benchmarks

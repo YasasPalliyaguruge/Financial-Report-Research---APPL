@@ -1,5 +1,7 @@
 # Technology Sector Industry Benchmarks for Financial Ratios
 
+> **Project context:** These benchmarks provide comparative context for the [Apple financial-analysis repository](README.md). They are a research snapshot, not a standardized valuation model or investment recommendation.
+
 ## Introduction
 
 This document presents industry benchmarks for key financial ratios across the technology sector, with specific focus on hardware and related sub-sectors. These benchmarks provide essential context for evaluating Apple Inc.'s financial performance against industry peers. The data is compiled from multiple authoritative sources and represents 2024 industry averages where available.

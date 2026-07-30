@@ -1,5 +1,7 @@
 # Apple Inc. Financial Analysis - Executive Summary
 
+> **Project context:** A reader-first summary of the [Apple financial-analysis repository](README.md). The figures describe the included 2023–2024 reporting period and should be read alongside the source filings and full report.
+
 ## Report Overview
 
 This comprehensive financial analysis examines how accounting information helps Apple Inc. assess business performance and make strategic decisions. The report analyzes Apple's 2024 financial statements using key ratios across profitability, liquidity, efficiency, and gearing categories.
