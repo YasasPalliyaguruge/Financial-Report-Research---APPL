@@ -1,0 +1,41 @@
+name: Quality checks
+
+on:
+  pull_request:
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install visualization dependencies
+        run: |
+          python -m pip install --upgrade pip
+          python -m pip install -r requirements.txt
+
+      - name: Compile Python sources
+        run: python -m compileall -q create_visualizations.py create_additional_visualizations.py tests
+
+      - name: Validate ratio data
+        run: python -m unittest discover -s tests -v
+
+      - name: Regenerate charts in headless mode
+        env:
+          MPLBACKEND: Agg
+        run: |
+          python create_visualizations.py
+          python create_additional_visualizations.py
